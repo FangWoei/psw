@@ -1,0 +1,30 @@
+.demo {
+  background: url(/public/img/demodrive/demo5/header.avif);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#second {
+  background: url(/public/img/demodrive/demo5/second.avif);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
+
+#line {
+  background: url(/public/img/demodrive/demo5/list.avif);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}

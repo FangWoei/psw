@@ -1,0 +1,29 @@
+.order-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.carousel-container {
+  position: fixed;
+  margin-top: 80px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 65%;
+  overflow-y: auto;
+}
+
+.fixed-carousel {
+  position: relative;
+  height: 100%;
+}
+
+@media only screen and (max-width: 1200px) {
+  .left {
+    display: none;
+  }
+  .one {
+    display: block !important;
+    width: 100% !important;
+  }
+}

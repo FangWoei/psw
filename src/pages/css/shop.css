@@ -1,0 +1,22 @@
+.shop {
+  background: url(/public/img/ordernow/video.gif);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+.list {
+  background: url(/public/img/ordernow/list.avif);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: aliceblue;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
